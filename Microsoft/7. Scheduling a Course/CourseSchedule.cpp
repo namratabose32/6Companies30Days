@@ -8,7 +8,7 @@ public:
         // store values in adjacent matrix i.e u->v for graph
         vector<int> adj[numCourses];
         for(auto x:prerequisites){
-            adj[x[0]].push_back(x[1]);
+            adj[x[1]].push_back(x[0]);
         }
         // calculate the indegree of a node i.e. number of incomming nodes
         vector<int> indegree(numCourses,0);
