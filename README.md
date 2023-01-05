@@ -4,7 +4,7 @@
 
 ## **1. Microsoft**
 
-| Questions | Solution |
+| Questions | C++ Solution |
 | --- | --- |
 |[1.You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Microsoft/1.Reverse%20Polish%20Notation) |
 | [2.Combination Sum with a twist.](https://leetcode.com/problems/combination-sum-iii/) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Microsoft/2.%20Combination%20Sum%20iii) |
