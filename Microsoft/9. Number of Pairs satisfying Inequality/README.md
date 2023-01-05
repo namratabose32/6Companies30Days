@@ -1,4 +1,4 @@
-**2426. Number of Pairs Satisfying Inequality**
+# **2426. Number of Pairs Satisfying Inequality**
 
 You are given two **0-indexed** integer arrays `nums1` and `nums2`, each of size `n`, and an integer `diff`. Find the number of **pairs** `(i, j)` such that:
 
