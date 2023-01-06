@@ -27,18 +27,18 @@
 
 | Questions | Solution in C++ |
 | --- | --- |
-| [1.Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) |  |
-| [2. Valid Square](https://leetcode.com/problems/valid-square/) |  |
-| [3. Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |  |
-| [4. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) (Similar to peacocks question) |  |
-| [5. Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) |  |
-| [6. Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) |  |
-| [7. Count Good Triplets in Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)(Profits in a Startup Question) |  |
-| [8. Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) |  |
-| [9. Initial Public Offering](https://leetcode.com/problems/ipo/) |  |
-| [10. People and Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) |  |
-|  [11. Invalid Transactions in an EMI](https://leetcode.com/problems/invalid-transactions/) |  |
-| [12. All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) |  |
-| [13. Rhombus Sums in a GRID](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) |  |
-| [14. Nice Pairs in Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) (OTT Platforms and John) |  |
-| [15. Good People based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) |  |
+| [1.Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Goldman%20Sachs/1.Max%20Points%20on%20a%20Line) |
+| [2. Valid Square](https://leetcode.com/problems/valid-square/) | [Solution] |
+| [3. Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution] |
+| [4. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) (Similar to peacocks question) | [Solution] |
+| [5. Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution] |
+| [6. Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution] |
+| [7. Count Good Triplets in Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)(Profits in a Startup Question) | [Solution] |
+| [8. Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution] |
+| [9. Initial Public Offering](https://leetcode.com/problems/ipo/) | [Solution] |
+| [10. People and Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution] |
+|  [11. Invalid Transactions in an EMI](https://leetcode.com/problems/invalid-transactions/) | [Solution] |
+| [12. All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution] |
+| [13. Rhombus Sums in a GRID](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Solution] |
+| [14. Nice Pairs in Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) (OTT Platforms and John) | [Solution] |
+| [15. Good People based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Solution] |
