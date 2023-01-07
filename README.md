@@ -29,7 +29,7 @@
 | --- | --- |
 | [1.Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Goldman%20Sachs/1.Max%20Points%20on%20a%20Line) |
 | [2. Valid Square](https://leetcode.com/problems/valid-square/) | [Solution] |
-| [3. Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution] |
+| [3. Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Goldman%20Sachs/3.%20Factorial%20with%20Trailing%20Zeroes) |
 | [4. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) (Similar to peacocks question) | [Solution] |
 | [5. Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution] |
 | [6. Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution] |
