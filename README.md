@@ -40,5 +40,5 @@
 |  [11. Invalid Transactions in an EMI](https://leetcode.com/problems/invalid-transactions/) | [Solution] |
 | [12. All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution] |
 | [13. Rhombus Sums in a GRID](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Solution] |
-| [14. Nice Pairs in Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) (OTT Platforms and John) | [Solution] |
+| [14. Nice Pairs in Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) (OTT Platforms and John) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Goldman%20Sachs/14.%20Count%20Nice%20Pairs%20in%20an%20Array) |
 | [15. Good People based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Solution] |
