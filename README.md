@@ -32,7 +32,7 @@
 | [3. Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Goldman%20Sachs/3.%20Factorial%20with%20Trailing%20Zeroes) |
 | [4. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) (Similar to peacocks question) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Goldman%20Sachs/004.%20Number%20of%20Boomerangs) |
 | [5. Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Goldman%20Sachs/005.%20Split%20Array%20into%20Sequences) |
-| [6. Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution] |
+| [6. Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution](https://github.com/namratabose32/6Companies30Days/tree/main/Goldman%20Sachs/006.%20Minimum%20Consecutive%20Cards%20to%20pick%20up) |
 | [7. Count Good Triplets in Array](https://leetcode.com/problems/count-good-triplets-in-an-array/)(Profits in a Startup Question) | [Solution] |
 | [8. Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution] |
 | [9. Initial Public Offering](https://leetcode.com/problems/ipo/) | [Solution] |
